@@ -1,0 +1,249 @@
+﻿* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Roboto', sans-serif;
+}
+
+html {
+}
+
+body {
+    background-color: #330218;
+    width: 100vw;
+    height: 100vh;
+}
+
+.container-main {
+    padding: 2% 5% 2% 5%;
+    width: 100vw;
+    height: 100vh;
+}
+
+.container-image-top {
+    position: relative;
+    width: 100%;
+    height: 30%;
+}
+
+    .container-image-top img {
+        width: 100%;
+        height: 100%;
+        object-fit: cover;
+    }
+
+.input-center {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background-color: rgba(255, 255, 255, 0.7);
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    font-size: 16px;
+    color: #000;
+    width: 50%;
+    text-align: center;
+}
+
+.container-botões-main {
+    display: flex;
+    align-items: center;
+    padding: 1%;
+    width: 100%;
+    height: 10%;
+}
+
+.container-botoes {
+    width: 80%;
+    height: auto;
+    display: flex;
+    gap: 3%;
+}
+
+.botao-persona {
+    color: azure;
+    border-radius: 10px;
+    background-color: #330218;
+    padding: 2px;
+    width: 10%;
+    height: 30px;
+    cursor: pointer;
+    border: 0.1px solid white;
+    gap: 10px;
+    font-size: 100%;
+}
+
+    .botao-persona:hover {
+        background-color: lightgrey;
+        opacity: 0.7;
+    }
+
+.container-botoes-config {
+    width: 20%;
+    height: auto;
+    display: flex;
+    justify-content: end;
+}
+
+.botao-persona-config {
+    color: azure;
+    border-radius: 10px;
+    background-color: #330218;
+    padding: 2px;
+    width: 38%;
+    height: 30px;
+    cursor: pointer;
+    border: 0.5px solid white;
+    font-size: 100%;
+}
+
+    .botao-persona-config:hover {
+        background-color: lightgrey;
+        opacity: 0.7;
+    }
+
+.container-conteudo-main {
+    width: 100%;
+    height: 60%;
+    background-color: #F7F2FA;
+    border-radius: 30px 30px 0px 0px;
+    padding: 0% 2% 0% 2%;
+}
+
+.container-enfeite-top {
+    width: 100%;
+    height: 10%;
+    border-radius: 30px 30px 0px 0px;
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.linha {
+    border: none;
+    height: 5px;
+    background-color: #79747E;
+    width: 1.8%;
+    margin: 0 auto;
+    border-radius: 10px;
+}
+
+.container-conteudo {
+    width: 100%;
+    height: 80%;
+    background-color: #ffffff;
+}
+
+.container-botao-manualmente {
+    width: 100%;
+    height: 13%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.container-titulo {
+    width: 100%;
+    height: 5%;
+    display: flex;
+    align-items: center;
+    justify-content: initial;
+    padding: 0% 0% 0% 5%;
+}
+
+    .container-titulo p {
+        color: black;
+        font-size: 100%;
+    }
+
+.container-conteudo-escrita-main-top {
+    width: 100%;
+    height: 41%;
+    padding: 0% 5% 0% 5%;
+    display: flex;
+}
+
+.container-conteudo-escrita1 {
+    width: 33%;
+    height: 100%;
+    padding: 1%
+}
+
+.container-conteudo-escrita2 {
+    width: 33%;
+    height: 100%;
+    padding: 1%
+}
+
+.container-conteudo-escrita3 {
+    width: 33%;
+    height: 100%;
+    padding: 1%
+}
+
+.container-conteudo-escrita-main-botton {
+    width: 100%;
+    height: 41%;
+    padding: 0% 5% 0% 5%;
+    display: flex;
+}
+
+.container-conteudo-escrita4 {
+    width: 33%;
+    height: 100%;
+    padding: 1%
+}
+
+.container-conteudo-escrita5 {
+    width: 33%;
+    height: 100%;
+    padding: 1%
+}
+
+.container-conteudo-escrita6 {
+    width: 33%;
+    height: 100%;
+    padding: 1%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.container-botão-gerar {
+    width: 100%;
+    height: 10%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.botao-container-conteudo-outro {
+    color: azure;
+    border-radius: 20px;
+    background-color: #65558F;
+    padding: 5px 20px 5px 20px;
+    width: auto;
+    height: 25%;
+    cursor: pointer;
+    border: none;
+    font-size: 100%;
+}
+
+.botao-container-conteudo {
+    color: azure;
+    border-radius: 20px;
+    background-color: #65558F;
+    padding: 5px 20px 5px 20px;
+    width: auto;
+    height: 70%;
+    cursor: pointer;
+    border: none;
+    font-size: 100%;
+}
+
+    .botao-container-conteudo:hover {
+        opacity: 0.7;
+    }

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GeradorDeNarrativas")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e6f8f7b150b9e054fa3c949fd167779548539ea6")]
 [assembly: System.Reflection.AssemblyProductAttribute("GeradorDeNarrativas")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GeradorDeNarrativas")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
