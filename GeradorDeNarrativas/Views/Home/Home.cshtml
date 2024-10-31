@@ -7,9 +7,7 @@
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <link rel="stylesheet" href="~/css/styleHome.css" asp-append-version="true" />
-        <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
-        <script src="~/js/site.js"></script>
-        <title>Login</title>
+        <title>Home</title>
 </head>
 <body>
     <div class="container-main">
@@ -28,7 +26,7 @@
                 <button class="botao-persona">Reviravolta</button>
                 <button class="botao-persona">Desfecho</button>
             </div>
-
+            
             <div class="container-botoes-config">
                 <button class="botao-persona-config">Configurações</button>
             </div>
@@ -70,8 +68,10 @@
             <div class="container-botão-gerar">
                 <button class="botao-container-conteudo">Gerar</button>
             </div>
-
         </div>
     </div>
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script src="~/js/site.js"></script>
+    @Html.Partial("~/Views/Home/Modal/_Configuracoes.cshtml")
 </body>
 </html>

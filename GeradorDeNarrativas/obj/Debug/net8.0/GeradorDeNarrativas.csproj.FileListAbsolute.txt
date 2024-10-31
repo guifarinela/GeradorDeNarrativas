@@ -27,3 +27,32 @@ C:\Users\Guilherme Farinela\Desktop\Aplicações\GeradorDeNarrativas\GeradorDeNa
 C:\Users\Guilherme Farinela\Desktop\Aplicações\GeradorDeNarrativas\GeradorDeNarrativas\obj\Debug\net8.0\GeradorDeNarrativas.pdb
 C:\Users\Guilherme Farinela\Desktop\Aplicações\GeradorDeNarrativas\GeradorDeNarrativas\obj\Debug\net8.0\GeradorDeNarrativas.genruntimeconfig.cache
 C:\Users\Guilherme Farinela\Desktop\Aplicações\GeradorDeNarrativas\GeradorDeNarrativas\obj\Debug\net8.0\ref\GeradorDeNarrativas.dll
+c:\Users\ge3867\Desktop\ProjetosPessoais\GeradorDeNarrativas\GeradorDeNarrativas\bin\Debug\net8.0\appsettings.Development.json
+c:\Users\ge3867\Desktop\ProjetosPessoais\GeradorDeNarrativas\GeradorDeNarrativas\bin\Debug\net8.0\appsettings.json
+c:\Users\ge3867\Desktop\ProjetosPessoais\GeradorDeNarrativas\GeradorDeNarrativas\bin\Debug\net8.0\GeradorDeNarrativas.staticwebassets.runtime.json
+c:\Users\ge3867\Desktop\ProjetosPessoais\GeradorDeNarrativas\GeradorDeNarrativas\bin\Debug\net8.0\GeradorDeNarrativas.exe
+c:\Users\ge3867\Desktop\ProjetosPessoais\GeradorDeNarrativas\GeradorDeNarrativas\bin\Debug\net8.0\GeradorDeNarrativas.deps.json
+c:\Users\ge3867\Desktop\ProjetosPessoais\GeradorDeNarrativas\GeradorDeNarrativas\bin\Debug\net8.0\GeradorDeNarrativas.runtimeconfig.json
+c:\Users\ge3867\Desktop\ProjetosPessoais\GeradorDeNarrativas\GeradorDeNarrativas\bin\Debug\net8.0\GeradorDeNarrativas.dll
+c:\Users\ge3867\Desktop\ProjetosPessoais\GeradorDeNarrativas\GeradorDeNarrativas\bin\Debug\net8.0\GeradorDeNarrativas.pdb
+c:\Users\ge3867\Desktop\ProjetosPessoais\GeradorDeNarrativas\GeradorDeNarrativas\obj\Debug\net8.0\GeradorDeNarrativas.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\ge3867\Desktop\ProjetosPessoais\GeradorDeNarrativas\GeradorDeNarrativas\obj\Debug\net8.0\GeradorDeNarrativas.AssemblyInfoInputs.cache
+c:\Users\ge3867\Desktop\ProjetosPessoais\GeradorDeNarrativas\GeradorDeNarrativas\obj\Debug\net8.0\GeradorDeNarrativas.AssemblyInfo.cs
+c:\Users\ge3867\Desktop\ProjetosPessoais\GeradorDeNarrativas\GeradorDeNarrativas\obj\Debug\net8.0\GeradorDeNarrativas.csproj.CoreCompileInputs.cache
+c:\Users\ge3867\Desktop\ProjetosPessoais\GeradorDeNarrativas\GeradorDeNarrativas\obj\Debug\net8.0\GeradorDeNarrativas.MvcApplicationPartsAssemblyInfo.cache
+c:\Users\ge3867\Desktop\ProjetosPessoais\GeradorDeNarrativas\GeradorDeNarrativas\obj\Debug\net8.0\GeradorDeNarrativas.RazorAssemblyInfo.cache
+c:\Users\ge3867\Desktop\ProjetosPessoais\GeradorDeNarrativas\GeradorDeNarrativas\obj\Debug\net8.0\GeradorDeNarrativas.RazorAssemblyInfo.cs
+c:\Users\ge3867\Desktop\ProjetosPessoais\GeradorDeNarrativas\GeradorDeNarrativas\obj\Debug\net8.0\GeradorDeNarrativas.sourcelink.json
+c:\Users\ge3867\Desktop\ProjetosPessoais\GeradorDeNarrativas\GeradorDeNarrativas\obj\Debug\net8.0\staticwebassets.build.json
+c:\Users\ge3867\Desktop\ProjetosPessoais\GeradorDeNarrativas\GeradorDeNarrativas\obj\Debug\net8.0\staticwebassets.development.json
+c:\Users\ge3867\Desktop\ProjetosPessoais\GeradorDeNarrativas\GeradorDeNarrativas\obj\Debug\net8.0\staticwebassets\msbuild.GeradorDeNarrativas.Microsoft.AspNetCore.StaticWebAssets.props
+c:\Users\ge3867\Desktop\ProjetosPessoais\GeradorDeNarrativas\GeradorDeNarrativas\obj\Debug\net8.0\staticwebassets\msbuild.build.GeradorDeNarrativas.props
+c:\Users\ge3867\Desktop\ProjetosPessoais\GeradorDeNarrativas\GeradorDeNarrativas\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.GeradorDeNarrativas.props
+c:\Users\ge3867\Desktop\ProjetosPessoais\GeradorDeNarrativas\GeradorDeNarrativas\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.GeradorDeNarrativas.props
+c:\Users\ge3867\Desktop\ProjetosPessoais\GeradorDeNarrativas\GeradorDeNarrativas\obj\Debug\net8.0\staticwebassets.pack.json
+c:\Users\ge3867\Desktop\ProjetosPessoais\GeradorDeNarrativas\GeradorDeNarrativas\obj\Debug\net8.0\scopedcss\bundle\GeradorDeNarrativas.styles.css
+c:\Users\ge3867\Desktop\ProjetosPessoais\GeradorDeNarrativas\GeradorDeNarrativas\obj\Debug\net8.0\GeradorDeNarrativas.dll
+c:\Users\ge3867\Desktop\ProjetosPessoais\GeradorDeNarrativas\GeradorDeNarrativas\obj\Debug\net8.0\refint\GeradorDeNarrativas.dll
+c:\Users\ge3867\Desktop\ProjetosPessoais\GeradorDeNarrativas\GeradorDeNarrativas\obj\Debug\net8.0\GeradorDeNarrativas.pdb
+c:\Users\ge3867\Desktop\ProjetosPessoais\GeradorDeNarrativas\GeradorDeNarrativas\obj\Debug\net8.0\GeradorDeNarrativas.genruntimeconfig.cache
+c:\Users\ge3867\Desktop\ProjetosPessoais\GeradorDeNarrativas\GeradorDeNarrativas\obj\Debug\net8.0\ref\GeradorDeNarrativas.dll

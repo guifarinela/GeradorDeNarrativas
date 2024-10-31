@@ -9,15 +9,19 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = GeradorDeNarrativas
 build_property.RootNamespace = GeradorDeNarrativas
-build_property.ProjectDir = C:\Users\Guilherme Farinela\Desktop\Aplicações\GeradorDeNarrativas\GeradorDeNarrativas\
+build_property.ProjectDir = c:\Users\ge3867\Desktop\ProjetosPessoais\GeradorDeNarrativas\GeradorDeNarrativas\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\Guilherme Farinela\Desktop\Aplicações\GeradorDeNarrativas\GeradorDeNarrativas
+build_property.MSBuildProjectDirectory = c:\Users\ge3867\Desktop\ProjetosPessoais\GeradorDeNarrativas\GeradorDeNarrativas
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/Guilherme Farinela/Desktop/Aplicações/GeradorDeNarrativas/GeradorDeNarrativas/Views/Home/Home.cshtml]
+[c:/Users/ge3867/Desktop/ProjetosPessoais/GeradorDeNarrativas/GeradorDeNarrativas/Views/Home/Home.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxIb21lLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/ge3867/Desktop/ProjetosPessoais/GeradorDeNarrativas/GeradorDeNarrativas/Views/Home/Modal/_Configuracoes.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxNb2RhbFxfQ29uZmlndXJhY29lcy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
