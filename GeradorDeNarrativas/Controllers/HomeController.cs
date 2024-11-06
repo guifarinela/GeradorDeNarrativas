@@ -17,10 +17,5 @@ namespace GeradorDeNarrativas.Controllers
         {
             return View();
         }
-
-        public IActionResult _Configuracoes()
-        {
-            return View("Modal/_Configuracoes");
-        }
     }
 }

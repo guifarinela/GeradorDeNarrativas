@@ -9,19 +9,31 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = GeradorDeNarrativas
 build_property.RootNamespace = GeradorDeNarrativas
-build_property.ProjectDir = c:\Users\ge3867\Desktop\ProjetosPessoais\GeradorDeNarrativas\GeradorDeNarrativas\
+build_property.ProjectDir = C:\Users\Guilherme Farinela\Desktop\GeradorDeNarrativas\GeradorDeNarrativas\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = c:\Users\ge3867\Desktop\ProjetosPessoais\GeradorDeNarrativas\GeradorDeNarrativas
+build_property.MSBuildProjectDirectory = C:\Users\Guilherme Farinela\Desktop\GeradorDeNarrativas\GeradorDeNarrativas
 build_property._RazorSourceGeneratorDebug = 
 
-[c:/Users/ge3867/Desktop/ProjetosPessoais/GeradorDeNarrativas/GeradorDeNarrativas/Views/Home/Home.cshtml]
+[C:/Users/Guilherme Farinela/Desktop/GeradorDeNarrativas/GeradorDeNarrativas/Views/Download/DownloadNarrativa.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRG93bmxvYWRcRG93bmxvYWROYXJyYXRpdmEuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Guilherme Farinela/Desktop/GeradorDeNarrativas/GeradorDeNarrativas/Views/Home/Home.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxIb21lLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/ge3867/Desktop/ProjetosPessoais/GeradorDeNarrativas/GeradorDeNarrativas/Views/Home/Modal/_Configuracoes.cshtml]
+[C:/Users/Guilherme Farinela/Desktop/GeradorDeNarrativas/GeradorDeNarrativas/Views/Home/Modal/_Configuracoes.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxNb2RhbFxfQ29uZmlndXJhY29lcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Guilherme Farinela/Desktop/GeradorDeNarrativas/GeradorDeNarrativas/Views/Home/Modal/_Detalhes.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxNb2RhbFxfRGV0YWxoZXMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Guilherme Farinela/Desktop/GeradorDeNarrativas/GeradorDeNarrativas/Views/Home/Modal/_GerarDoZero.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxNb2RhbFxfR2VyYXJEb1plcm8uY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
